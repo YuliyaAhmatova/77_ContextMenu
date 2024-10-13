@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">77_ContextMenu</string>
+    <string name="input_grade">Введите оценку</string>
+    <string name="title_color_quality">Цветовое качество</string>
+    <string name="title_exit">Выход из приложения</string>
+    <string name="random_number">Случайное число</string>
+</resources>
